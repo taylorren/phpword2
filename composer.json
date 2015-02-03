@@ -1,5 +1,9 @@
 {
     "require": {
-        "phpoffice/phpword": "0.12.*"
+        "phpoffice/phpword": "0.12.*",
+		"silex/silex": "~1.2",
+        "twig/twig": ">=1.8, <2.0-dev",
+		"symfony/twig-bridge": "~2.3",
+        "symfony/var-dumper": "~2.6"
     }
 }
